@@ -1,0 +1,2886 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE result>
+<result>
+<abilities>
+	<ability>
+		<id>5003</id>
+		<heroId>1</heroId>
+		<name>antimage_mana_break</name>
+		<localizedName>Mana Break</localizedName>
+	</ability>
+	<ability>
+		<id>5004</id>
+		<heroId>1</heroId>
+		<name>antimage_blink</name>
+		<localizedName>Blink</localizedName>
+	</ability>
+	<ability>
+		<id>5005</id>
+		<heroId>1</heroId>
+		<name>antimage_spell_shield</name>
+		<localizedName>Spell Shield</localizedName>
+	</ability>
+	<ability>
+		<id>5006</id>
+		<heroId>1</heroId>
+		<name>antimage_mana_void</name>
+		<localizedName>Mana Void</localizedName>
+	</ability>
+	<ability>
+		<id>5007</id>
+		<heroId>2</heroId>
+		<name>axe_berserkers_call</name>
+		<localizedName>Berserker's Call</localizedName>
+	</ability>
+	<ability>
+		<id>5008</id>
+		<heroId>2</heroId>
+		<name>axe_battle_hunger</name>
+		<localizedName>Battle Hunger</localizedName>
+	</ability>
+	<ability>
+		<id>5009</id>
+		<heroId>2</heroId>
+		<name>axe_counter_helix</name>
+		<localizedName>Counter Helix</localizedName>
+	</ability>
+	<ability>
+		<id>5010</id>
+		<heroId>2</heroId>
+		<name>axe_culling_blade</name>
+		<localizedName>Culling Blade</localizedName>
+	</ability>
+	<ability>
+		<id>5012</id>
+		<heroId>3</heroId>
+		<name>bane_enfeeble</name>
+		<localizedName>Enfeeble</localizedName>
+	</ability>
+	<ability>
+		<id>5011</id>
+		<heroId>3</heroId>
+		<name>bane_brain_sap</name>
+		<localizedName>Brain Sap</localizedName>
+	</ability>
+	<ability>
+		<id>5013</id>
+		<heroId>3</heroId>
+		<name>bane_fiends_grip</name>
+		<localizedName>Fiend's Grip</localizedName>
+	</ability>
+	<ability>
+		<id>5014</id>
+		<heroId>3</heroId>
+		<name>bane_nightmare</name>
+		<localizedName>Nightmare</localizedName>
+	</ability>
+	<ability>
+		<id>5523</id>
+		<heroId>3</heroId>
+		<name>bane_nightmare_end</name>
+		<localizedName>Nightmare End</localizedName>
+	</ability>
+	<ability>
+		<id>5015</id>
+		<heroId>4</heroId>
+		<name>bloodseeker_bloodrage</name>
+		<localizedName>Bloodrage</localizedName>
+	</ability>
+	<ability>
+		<id>5016</id>
+		<heroId>4</heroId>
+		<name>bloodseeker_blood_bath</name>
+		<localizedName>Blood Bath</localizedName>
+	</ability>
+	<ability>
+		<id>5017</id>
+		<heroId>4</heroId>
+		<name>bloodseeker_thirst</name>
+		<localizedName>Thirst</localizedName>
+	</ability>
+	<ability>
+		<id>5018</id>
+		<heroId>4</heroId>
+		<name>bloodseeker_rupture</name>
+		<localizedName>Rupture</localizedName>
+	</ability>
+	<ability>
+		<id>5019</id>
+		<heroId>6</heroId>
+		<name>drow_ranger_frost_arrows</name>
+		<localizedName>Frost Arrows</localizedName>
+	</ability>
+	<ability>
+		<id>5632</id>
+		<heroId>6</heroId>
+		<name>drow_ranger_wave_of_silence</name>
+		<localizedName>Gust</localizedName>
+	</ability>
+	<ability>
+		<id>5021</id>
+		<heroId>6</heroId>
+		<name>drow_ranger_trueshot</name>
+		<localizedName>Precision Aura</localizedName>
+	</ability>
+	<ability>
+		<id>5022</id>
+		<heroId>6</heroId>
+		<name>drow_ranger_marksmanship</name>
+		<localizedName>Marksmanship</localizedName>
+	</ability>
+	<ability>
+		<id>5023</id>
+		<heroId>7</heroId>
+		<name>earthshaker_fissure</name>
+		<localizedName>Fissure</localizedName>
+	</ability>
+	<ability>
+		<id>5024</id>
+		<heroId>7</heroId>
+		<name>earthshaker_enchant_totem</name>
+		<localizedName>Enchant Totem</localizedName>
+	</ability>
+	<ability>
+		<id>5025</id>
+		<heroId>7</heroId>
+		<name>earthshaker_aftershock</name>
+		<localizedName>Aftershock</localizedName>
+	</ability>
+	<ability>
+		<id>5026</id>
+		<heroId>7</heroId>
+		<name>earthshaker_echo_slam</name>
+		<localizedName>Echo Slam</localizedName>
+	</ability>
+	<ability>
+		<id>5027</id>
+		<heroId>8</heroId>
+		<name>juggernaut_blade_dance</name>
+		<localizedName>Blade Dance</localizedName>
+	</ability>
+	<ability>
+		<id>5028</id>
+		<heroId>8</heroId>
+		<name>juggernaut_blade_fury</name>
+		<localizedName>Blade Fury</localizedName>
+	</ability>
+	<ability>
+		<id>5029</id>
+		<heroId>8</heroId>
+		<name>juggernaut_healing_ward</name>
+		<localizedName>Healing Ward</localizedName>
+	</ability>
+	<ability>
+		<id>5030</id>
+		<heroId>8</heroId>
+		<name>juggernaut_omni_slash</name>
+		<localizedName>Omnislash</localizedName>
+	</ability>
+	<ability>
+		<id>5031</id>
+		<heroId>23</heroId>
+		<name>kunkka_torrent</name>
+		<localizedName>Torrent</localizedName>
+	</ability>
+	<ability>
+		<id>5032</id>
+		<heroId>23</heroId>
+		<name>kunkka_tidebringer</name>
+		<localizedName>Tidebringer</localizedName>
+	</ability>
+	<ability>
+		<id>5033</id>
+		<heroId>23</heroId>
+		<name>kunkka_x_marks_the_spot</name>
+		<localizedName>X Marks the Spot</localizedName>
+	</ability>
+	<ability>
+		<id>5034</id>
+		<heroId>23</heroId>
+		<name>kunkka_return</name>
+		<localizedName>Return</localizedName>
+	</ability>
+	<ability>
+		<id>5035</id>
+		<heroId>23</heroId>
+		<name>kunkka_ghostship</name>
+		<localizedName>Ghostship</localizedName>
+	</ability>
+	<ability>
+		<id>5040</id>
+		<heroId>25</heroId>
+		<name>lina_dragon_slave</name>
+		<localizedName>Dragon Slave</localizedName>
+	</ability>
+	<ability>
+		<id>5041</id>
+		<heroId>25</heroId>
+		<name>lina_light_strike_array</name>
+		<localizedName>Light Strike Array</localizedName>
+	</ability>
+	<ability>
+		<id>5042</id>
+		<heroId>25</heroId>
+		<name>lina_fiery_soul</name>
+		<localizedName>Fiery Soul</localizedName>
+	</ability>
+	<ability>
+		<id>5043</id>
+		<heroId>25</heroId>
+		<name>lina_laguna_blade</name>
+		<localizedName>Laguna Blade</localizedName>
+	</ability>
+	<ability>
+		<id>5044</id>
+		<heroId>26</heroId>
+		<name>lion_impale</name>
+		<localizedName>Earth Spike</localizedName>
+	</ability>
+	<ability>
+		<id>5045</id>
+		<heroId>26</heroId>
+		<name>lion_voodoo</name>
+		<localizedName>Hex</localizedName>
+	</ability>
+	<ability>
+		<id>5046</id>
+		<heroId>26</heroId>
+		<name>lion_mana_drain</name>
+		<localizedName>Mana Drain</localizedName>
+	</ability>
+	<ability>
+		<id>5047</id>
+		<heroId>26</heroId>
+		<name>lion_finger_of_death</name>
+		<localizedName>Finger of Death</localizedName>
+	</ability>
+	<ability>
+		<id>5048</id>
+		<heroId>9</heroId>
+		<name>mirana_arrow</name>
+		<localizedName>Sacred Arrow</localizedName>
+	</ability>
+	<ability>
+		<id>5049</id>
+		<heroId>9</heroId>
+		<name>mirana_invis</name>
+		<localizedName>Moonlight Shadow</localizedName>
+	</ability>
+	<ability>
+		<id>5050</id>
+		<heroId>9</heroId>
+		<name>mirana_leap</name>
+		<localizedName>Leap</localizedName>
+	</ability>
+	<ability>
+		<id>5051</id>
+		<heroId>9</heroId>
+		<name>mirana_starfall</name>
+		<localizedName>Starstorm</localizedName>
+	</ability>
+	<ability>
+		<id>5052</id>
+		<heroId>10</heroId>
+		<name>morphling_waveform</name>
+		<localizedName>Waveform</localizedName>
+	</ability>
+	<ability>
+		<id>5053</id>
+		<heroId>10</heroId>
+		<name>morphling_adaptive_strike</name>
+		<localizedName>Adaptive Strike</localizedName>
+	</ability>
+	<ability>
+		<id>5055</id>
+		<heroId>10</heroId>
+		<name>morphling_morph_agi</name>
+		<localizedName>Morph (Agility Gain)</localizedName>
+	</ability>
+	<ability>
+		<id>5056</id>
+		<heroId>10</heroId>
+		<name>morphling_morph_str</name>
+		<localizedName>Morph (Strength Gain)</localizedName>
+	</ability>
+	<ability>
+		<id>5057</id>
+		<heroId>10</heroId>
+		<name>morphling_replicate</name>
+		<localizedName>Replicate</localizedName>
+	</ability>
+	<ability>
+		<id>5058</id>
+		<heroId>10</heroId>
+		<name>morphling_morph_replicate</name>
+		<localizedName>Morph Replicate</localizedName>
+	</ability>
+	<ability>
+		<id>5059</id>
+		<heroId>11</heroId>
+		<name>nevermore_shadowraze1</name>
+		<localizedName>Shadowraze</localizedName>
+	</ability>
+	<ability>
+		<id>5060</id>
+		<heroId>11</heroId>
+		<name>nevermore_shadowraze2</name>
+		<localizedName>Shadowraze</localizedName>
+	</ability>
+	<ability>
+		<id>5061</id>
+		<heroId>11</heroId>
+		<name>nevermore_shadowraze3</name>
+		<localizedName>Shadowraze</localizedName>
+	</ability>
+	<ability>
+		<id>5062</id>
+		<heroId>11</heroId>
+		<name>nevermore_necromastery</name>
+		<localizedName>Necromastery</localizedName>
+	</ability>
+	<ability>
+		<id>5063</id>
+		<heroId>11</heroId>
+		<name>nevermore_dark_lord</name>
+		<localizedName>Presence of the Dark Lord</localizedName>
+	</ability>
+	<ability>
+		<id>5064</id>
+		<heroId>11</heroId>
+		<name>nevermore_requiem</name>
+		<localizedName>Requiem of Souls</localizedName>
+	</ability>
+	<ability>
+		<id>5065</id>
+		<heroId>12</heroId>
+		<name>phantom_lancer_spirit_lance</name>
+		<localizedName>Spirit Lance</localizedName>
+	</ability>
+	<ability>
+		<id>5066</id>
+		<heroId>12</heroId>
+		<name>phantom_lancer_doppelwalk</name>
+		<localizedName>Doppelwalk</localizedName>
+	</ability>
+	<ability>
+		<id>5067</id>
+		<heroId>12</heroId>
+		<name>phantom_lancer_juxtapose</name>
+		<localizedName>Juxtapose</localizedName>
+	</ability>
+	<ability>
+		<id>5068</id>
+		<heroId>12</heroId>
+		<name>phantom_lancer_phantom_edge</name>
+		<localizedName>Phantom Edge</localizedName>
+	</ability>
+	<ability>
+		<id>5069</id>
+		<heroId>13</heroId>
+		<name>puck_illusory_orb</name>
+		<localizedName>Illusory Orb</localizedName>
+	</ability>
+	<ability>
+		<id>5070</id>
+		<heroId>13</heroId>
+		<name>puck_ethereal_jaunt</name>
+		<localizedName>Ethereal Jaunt</localizedName>
+	</ability>
+	<ability>
+		<id>5071</id>
+		<heroId>13</heroId>
+		<name>puck_waning_rift</name>
+		<localizedName>Waning Rift</localizedName>
+	</ability>
+	<ability>
+		<id>5072</id>
+		<heroId>13</heroId>
+		<name>puck_phase_shift</name>
+		<localizedName>Phase Shift</localizedName>
+	</ability>
+	<ability>
+		<id>5073</id>
+		<heroId>13</heroId>
+		<name>puck_dream_coil</name>
+		<localizedName>Dream Coil</localizedName>
+	</ability>
+	<ability>
+		<id>5074</id>
+		<heroId>14</heroId>
+		<name>pudge_flesh_heap</name>
+		<localizedName>Flesh Heap</localizedName>
+	</ability>
+	<ability>
+		<id>5075</id>
+		<heroId>14</heroId>
+		<name>pudge_meat_hook</name>
+		<localizedName>Meat Hook</localizedName>
+	</ability>
+	<ability>
+		<id>5076</id>
+		<heroId>14</heroId>
+		<name>pudge_rot</name>
+		<localizedName>Rot</localizedName>
+	</ability>
+	<ability>
+		<id>5077</id>
+		<heroId>14</heroId>
+		<name>pudge_dismember</name>
+		<localizedName>Dismember</localizedName>
+	</ability>
+	<ability>
+		<id>5078</id>
+		<heroId>27</heroId>
+		<name>shadow_shaman_ether_shock</name>
+		<localizedName>Ether Shock</localizedName>
+	</ability>
+	<ability>
+		<id>5079</id>
+		<heroId>27</heroId>
+		<name>shadow_shaman_voodoo</name>
+		<localizedName>Hex</localizedName>
+	</ability>
+	<ability>
+		<id>5080</id>
+		<heroId>27</heroId>
+		<name>shadow_shaman_shackles</name>
+		<localizedName>Shackles</localizedName>
+	</ability>
+	<ability>
+		<id>5081</id>
+		<heroId>27</heroId>
+		<name>shadow_shaman_mass_serpent_ward</name>
+		<localizedName>Mass Serpent Ward</localizedName>
+	</ability>
+	<ability>
+		<id>5082</id>
+		<heroId>15</heroId>
+		<name>razor_plasma_field</name>
+		<localizedName>Plasma Field</localizedName>
+	</ability>
+	<ability>
+		<id>5083</id>
+		<heroId>15</heroId>
+		<name>razor_static_link</name>
+		<localizedName>Static Link</localizedName>
+	</ability>
+	<ability>
+		<id>5084</id>
+		<heroId>15</heroId>
+		<name>razor_unstable_current</name>
+		<localizedName>Unstable Current</localizedName>
+	</ability>
+	<ability>
+		<id>5085</id>
+		<heroId>15</heroId>
+		<name>razor_eye_of_the_storm</name>
+		<localizedName>Eye of the Storm</localizedName>
+	</ability>
+	<ability>
+		<id>5086</id>
+		<heroId>42</heroId>
+		<name>skeleton_king_hellfire_blast</name>
+		<localizedName>Wraithfire Blast</localizedName>
+	</ability>
+	<ability>
+		<id>5087</id>
+		<heroId>42</heroId>
+		<name>skeleton_king_vampiric_aura</name>
+		<localizedName>Vampiric Aura</localizedName>
+	</ability>
+	<ability>
+		<id>5088</id>
+		<heroId>42</heroId>
+		<name>skeleton_king_mortal_strike</name>
+		<localizedName>Mortal Strike</localizedName>
+	</ability>
+	<ability>
+		<id>5089</id>
+		<heroId>42</heroId>
+		<name>skeleton_king_reincarnation</name>
+		<localizedName>Reincarnation</localizedName>
+	</ability>
+	<ability>
+		<id>5090</id>
+		<heroId>43</heroId>
+		<name>death_prophet_carrion_swarm</name>
+		<localizedName>Crypt Swarm</localizedName>
+	</ability>
+	<ability>
+		<id>5091</id>
+		<heroId>43</heroId>
+		<name>death_prophet_silence</name>
+		<localizedName>Silence</localizedName>
+	</ability>
+	<ability>
+		<id>5092</id>
+		<heroId>43</heroId>
+		<name>death_prophet_witchcraft</name>
+		<localizedName>Witchcraft</localizedName>
+	</ability>
+	<ability>
+		<id>5093</id>
+		<heroId>43</heroId>
+		<name>death_prophet_exorcism</name>
+		<localizedName>Exorcism</localizedName>
+	</ability>
+	<ability>
+		<id>5094</id>
+		<heroId>18</heroId>
+		<name>sven_storm_bolt</name>
+		<localizedName>Storm Hammer</localizedName>
+	</ability>
+	<ability>
+		<id>5095</id>
+		<heroId>18</heroId>
+		<name>sven_great_cleave</name>
+		<localizedName>Great Cleave</localizedName>
+	</ability>
+	<ability>
+		<id>5096</id>
+		<heroId>18</heroId>
+		<name>sven_warcry</name>
+		<localizedName>Warcry</localizedName>
+	</ability>
+	<ability>
+		<id>5097</id>
+		<heroId>18</heroId>
+		<name>sven_gods_strength</name>
+		<localizedName>God's Strength</localizedName>
+	</ability>
+	<ability>
+		<id>5098</id>
+		<heroId>17</heroId>
+		<name>storm_spirit_static_remnant</name>
+		<localizedName>Static Remnant</localizedName>
+	</ability>
+	<ability>
+		<id>5099</id>
+		<heroId>17</heroId>
+		<name>storm_spirit_electric_vortex</name>
+		<localizedName>Electric Vortex</localizedName>
+	</ability>
+	<ability>
+		<id>5100</id>
+		<heroId>17</heroId>
+		<name>storm_spirit_overload</name>
+		<localizedName>Overload</localizedName>
+	</ability>
+	<ability>
+		<id>5101</id>
+		<heroId>17</heroId>
+		<name>storm_spirit_ball_lightning</name>
+		<localizedName>Ball Lightning</localizedName>
+	</ability>
+	<ability>
+		<id>5102</id>
+		<heroId>16</heroId>
+		<name>sandking_burrowstrike</name>
+		<localizedName>Burrowstrike</localizedName>
+	</ability>
+	<ability>
+		<id>5103</id>
+		<heroId>16</heroId>
+		<name>sandking_sand_storm</name>
+		<localizedName>Sand Storm</localizedName>
+	</ability>
+	<ability>
+		<id>5104</id>
+		<heroId>16</heroId>
+		<name>sandking_caustic_finale</name>
+		<localizedName>Caustic Finale</localizedName>
+	</ability>
+	<ability>
+		<id>5105</id>
+		<heroId>16</heroId>
+		<name>sandking_epicenter</name>
+		<localizedName>Epicenter</localizedName>
+	</ability>
+	<ability>
+		<id>5106</id>
+		<heroId>19</heroId>
+		<name>tiny_avalanche</name>
+		<localizedName>Avalanche</localizedName>
+	</ability>
+	<ability>
+		<id>5107</id>
+		<heroId>19</heroId>
+		<name>tiny_toss</name>
+		<localizedName>Toss</localizedName>
+	</ability>
+	<ability>
+		<id>5108</id>
+		<heroId>19</heroId>
+		<name>tiny_craggy_exterior</name>
+		<localizedName>Craggy Exterior</localizedName>
+	</ability>
+	<ability>
+		<id>5109</id>
+		<heroId>19</heroId>
+		<name>tiny_grow</name>
+		<localizedName>Grow</localizedName>
+	</ability>
+	<ability>
+		<id>5110</id>
+		<heroId>22</heroId>
+		<name>zuus_arc_lightning</name>
+		<localizedName>Arc Lightning</localizedName>
+	</ability>
+	<ability>
+		<id>5111</id>
+		<heroId>22</heroId>
+		<name>zuus_lightning_bolt</name>
+		<localizedName>Lightning Bolt</localizedName>
+	</ability>
+	<ability>
+		<id>5112</id>
+		<heroId>22</heroId>
+		<name>zuus_static_field</name>
+		<localizedName>Static Field</localizedName>
+	</ability>
+	<ability>
+		<id>5113</id>
+		<heroId>22</heroId>
+		<name>zuus_thundergods_wrath</name>
+		<localizedName>Thundergod's Wrath</localizedName>
+	</ability>
+	<ability>
+		<id>5114</id>
+		<heroId>28</heroId>
+		<name>slardar_sprint</name>
+		<localizedName>Sprint</localizedName>
+	</ability>
+	<ability>
+		<id>5115</id>
+		<heroId>28</heroId>
+		<name>slardar_slithereen_crush</name>
+		<localizedName>Slithereen Crush</localizedName>
+	</ability>
+	<ability>
+		<id>5116</id>
+		<heroId>28</heroId>
+		<name>slardar_bash</name>
+		<localizedName>Bash</localizedName>
+	</ability>
+	<ability>
+		<id>5117</id>
+		<heroId>28</heroId>
+		<name>slardar_amplify_damage</name>
+		<localizedName>Amplify Damage</localizedName>
+	</ability>
+	<ability>
+		<id>5118</id>
+		<heroId>29</heroId>
+		<name>tidehunter_gush</name>
+		<localizedName>Gush</localizedName>
+	</ability>
+	<ability>
+		<id>5119</id>
+		<heroId>29</heroId>
+		<name>tidehunter_kraken_shell</name>
+		<localizedName>Kraken Shell</localizedName>
+	</ability>
+	<ability>
+		<id>5120</id>
+		<heroId>29</heroId>
+		<name>tidehunter_anchor_smash</name>
+		<localizedName>Anchor Smash</localizedName>
+	</ability>
+	<ability>
+		<id>5121</id>
+		<heroId>29</heroId>
+		<name>tidehunter_ravage</name>
+		<localizedName>Ravage</localizedName>
+	</ability>
+	<ability>
+		<id>5122</id>
+		<heroId>20</heroId>
+		<name>vengefulspirit_magic_missile</name>
+		<localizedName>Magic Missile</localizedName>
+	</ability>
+	<ability>
+		<id>5123</id>
+		<heroId>20</heroId>
+		<name>vengefulspirit_command_aura</name>
+		<localizedName>Vengeance Aura</localizedName>
+	</ability>
+	<ability>
+		<id>5124</id>
+		<heroId>20</heroId>
+		<name>vengefulspirit_wave_of_terror</name>
+		<localizedName>Wave of Terror</localizedName>
+	</ability>
+	<ability>
+		<id>5125</id>
+		<heroId>20</heroId>
+		<name>vengefulspirit_nether_swap</name>
+		<localizedName>Nether Swap</localizedName>
+	</ability>
+	<ability>
+		<id>5126</id>
+		<heroId>5</heroId>
+		<name>crystal_maiden_crystal_nova</name>
+		<localizedName>Crystal Nova</localizedName>
+	</ability>
+	<ability>
+		<id>5127</id>
+		<heroId>5</heroId>
+		<name>crystal_maiden_frostbite</name>
+		<localizedName>Frostbite</localizedName>
+	</ability>
+	<ability>
+		<id>5128</id>
+		<heroId>5</heroId>
+		<name>crystal_maiden_brilliance_aura</name>
+		<localizedName>Arcane Aura</localizedName>
+	</ability>
+	<ability>
+		<id>5129</id>
+		<heroId>5</heroId>
+		<name>crystal_maiden_freezing_field</name>
+		<localizedName>Freezing Field</localizedName>
+	</ability>
+	<ability>
+		<id>5130</id>
+		<heroId>21</heroId>
+		<name>windrunner_shackleshot</name>
+		<localizedName>Shackleshot</localizedName>
+	</ability>
+	<ability>
+		<id>5131</id>
+		<heroId>21</heroId>
+		<name>windrunner_powershot</name>
+		<localizedName>Powershot</localizedName>
+	</ability>
+	<ability>
+		<id>5132</id>
+		<heroId>21</heroId>
+		<name>windrunner_windrun</name>
+		<localizedName>Windrun</localizedName>
+	</ability>
+	<ability>
+		<id>5133</id>
+		<heroId>21</heroId>
+		<name>windrunner_focusfire</name>
+		<localizedName>Focus Fire</localizedName>
+	</ability>
+	<ability>
+		<id>5134</id>
+		<heroId>31</heroId>
+		<name>lich_frost_nova</name>
+		<localizedName>Frost Blast</localizedName>
+	</ability>
+	<ability>
+		<id>5135</id>
+		<heroId>31</heroId>
+		<name>lich_frost_armor</name>
+		<localizedName>Ice Armor</localizedName>
+	</ability>
+	<ability>
+		<id>5136</id>
+		<heroId>31</heroId>
+		<name>lich_dark_ritual</name>
+		<localizedName>Sacrifice</localizedName>
+	</ability>
+	<ability>
+		<id>5137</id>
+		<heroId>31</heroId>
+		<name>lich_chain_frost</name>
+		<localizedName>Chain Frost</localizedName>
+	</ability>
+	<ability>
+		<id>5138</id>
+		<heroId>30</heroId>
+		<name>witch_doctor_paralyzing_cask</name>
+		<localizedName>Paralyzing Cask</localizedName>
+	</ability>
+	<ability>
+		<id>5139</id>
+		<heroId>30</heroId>
+		<name>witch_doctor_voodoo_restoration</name>
+		<localizedName>Voodoo Restoration</localizedName>
+	</ability>
+	<ability>
+		<id>5140</id>
+		<heroId>30</heroId>
+		<name>witch_doctor_maledict</name>
+		<localizedName>Maledict</localizedName>
+	</ability>
+	<ability>
+		<id>5141</id>
+		<heroId>30</heroId>
+		<name>witch_doctor_death_ward</name>
+		<localizedName>Death Ward</localizedName>
+	</ability>
+	<ability>
+		<id>5142</id>
+		<heroId>32</heroId>
+		<name>riki_smoke_screen</name>
+		<localizedName>Smoke Screen</localizedName>
+	</ability>
+	<ability>
+		<id>5143</id>
+		<heroId>32</heroId>
+		<name>riki_blink_strike</name>
+		<localizedName>Blink Strike</localizedName>
+	</ability>
+	<ability>
+		<id>5144</id>
+		<heroId>32</heroId>
+		<name>riki_backstab</name>
+		<localizedName>Backstab</localizedName>
+	</ability>
+	<ability>
+		<id>5145</id>
+		<heroId>32</heroId>
+		<name>riki_permanent_invisibility</name>
+		<localizedName>Permanent Invisibility</localizedName>
+	</ability>
+	<ability>
+		<id>5146</id>
+		<heroId>33</heroId>
+		<name>enigma_malefice</name>
+		<localizedName>Malefice</localizedName>
+	</ability>
+	<ability>
+		<id>5147</id>
+		<heroId>33</heroId>
+		<name>enigma_demonic_conversion</name>
+		<localizedName>Demonic Conversion</localizedName>
+	</ability>
+	<ability>
+		<id>5148</id>
+		<heroId>33</heroId>
+		<name>enigma_midnight_pulse</name>
+		<localizedName>Midnight Pulse</localizedName>
+	</ability>
+	<ability>
+		<id>5149</id>
+		<heroId>33</heroId>
+		<name>enigma_black_hole</name>
+		<localizedName>Black Hole</localizedName>
+	</ability>
+	<ability>
+		<id>5150</id>
+		<heroId>34</heroId>
+		<name>tinker_laser</name>
+		<localizedName>Laser</localizedName>
+	</ability>
+	<ability>
+		<id>5151</id>
+		<heroId>34</heroId>
+		<name>tinker_heat_seeking_missile</name>
+		<localizedName>Heat-Seeking Missile</localizedName>
+	</ability>
+	<ability>
+		<id>5152</id>
+		<heroId>34</heroId>
+		<name>tinker_march_of_the_machines</name>
+		<localizedName>March of the Machines</localizedName>
+	</ability>
+	<ability>
+		<id>5153</id>
+		<heroId>34</heroId>
+		<name>tinker_rearm</name>
+		<localizedName>Rearm</localizedName>
+	</ability>
+	<ability>
+		<id>5154</id>
+		<heroId>35</heroId>
+		<name>sniper_shrapnel</name>
+		<localizedName>Shrapnel</localizedName>
+	</ability>
+	<ability>
+		<id>5155</id>
+		<heroId>35</heroId>
+		<name>sniper_headshot</name>
+		<localizedName>Headshot</localizedName>
+	</ability>
+	<ability>
+		<id>5156</id>
+		<heroId>35</heroId>
+		<name>sniper_take_aim</name>
+		<localizedName>Take Aim</localizedName>
+	</ability>
+	<ability>
+		<id>5157</id>
+		<heroId>35</heroId>
+		<name>sniper_assassinate</name>
+		<localizedName>Assassinate</localizedName>
+	</ability>
+	<ability>
+		<id>5158</id>
+		<heroId>36</heroId>
+		<name>necrolyte_death_pulse</name>
+		<localizedName>Death Pulse</localizedName>
+	</ability>
+	<ability>
+		<id>5159</id>
+		<heroId>36</heroId>
+		<name>necrolyte_heartstopper_aura</name>
+		<localizedName>Heartstopper Aura</localizedName>
+	</ability>
+	<ability>
+		<id>5160</id>
+		<heroId>36</heroId>
+		<name>necrolyte_sadist</name>
+		<localizedName>Sadist</localizedName>
+	</ability>
+	<ability>
+		<id>5161</id>
+		<heroId>36</heroId>
+		<name>necrolyte_reapers_scythe</name>
+		<localizedName>Reaper's Scythe</localizedName>
+	</ability>
+	<ability>
+		<id>5162</id>
+		<heroId>37</heroId>
+		<name>warlock_fatal_bonds</name>
+		<localizedName>Fatal Bonds</localizedName>
+	</ability>
+	<ability>
+		<id>5163</id>
+		<heroId>37</heroId>
+		<name>warlock_shadow_word</name>
+		<localizedName>Shadow Word</localizedName>
+	</ability>
+	<ability>
+		<id>5164</id>
+		<heroId>37</heroId>
+		<name>warlock_upheaval</name>
+		<localizedName>Upheaval</localizedName>
+	</ability>
+	<ability>
+		<id>5165</id>
+		<heroId>37</heroId>
+		<name>warlock_rain_of_chaos</name>
+		<localizedName>Chaotic Offering</localizedName>
+	</ability>
+	<ability>
+		<id>5168</id>
+		<heroId>38</heroId>
+		<name>beastmaster_wild_axes</name>
+		<localizedName>Wild Axes</localizedName>
+	</ability>
+	<ability>
+		<id>5169</id>
+		<heroId>38</heroId>
+		<name>beastmaster_call_of_the_wild</name>
+		<localizedName>Call of the Wild</localizedName>
+	</ability>
+	<ability>
+		<id>5580</id>
+		<heroId>38</heroId>
+		<name>beastmaster_call_of_the_wild_boar</name>
+		<localizedName>Call of the Wild</localizedName>
+	</ability>
+	<ability>
+		<id>5172</id>
+		<heroId>38</heroId>
+		<name>beastmaster_inner_beast</name>
+		<localizedName>Inner Beast</localizedName>
+	</ability>
+	<ability>
+		<id>5177</id>
+		<heroId>38</heroId>
+		<name>beastmaster_primal_roar</name>
+		<localizedName>Primal Roar</localizedName>
+	</ability>
+	<ability>
+		<id>5173</id>
+		<heroId>39</heroId>
+		<name>queenofpain_shadow_strike</name>
+		<localizedName>Shadow Strike</localizedName>
+	</ability>
+	<ability>
+		<id>5174</id>
+		<heroId>39</heroId>
+		<name>queenofpain_blink</name>
+		<localizedName>Blink</localizedName>
+	</ability>
+	<ability>
+		<id>5175</id>
+		<heroId>39</heroId>
+		<name>queenofpain_scream_of_pain</name>
+		<localizedName>Scream Of Pain</localizedName>
+	</ability>
+	<ability>
+		<id>5176</id>
+		<heroId>39</heroId>
+		<name>queenofpain_sonic_wave</name>
+		<localizedName>Sonic Wave</localizedName>
+	</ability>
+	<ability>
+		<id>5178</id>
+		<heroId>40</heroId>
+		<name>venomancer_venomous_gale</name>
+		<localizedName>Venomous Gale</localizedName>
+	</ability>
+	<ability>
+		<id>5179</id>
+		<heroId>40</heroId>
+		<name>venomancer_poison_sting</name>
+		<localizedName>Poison Sting</localizedName>
+	</ability>
+	<ability>
+		<id>5180</id>
+		<heroId>40</heroId>
+		<name>venomancer_plague_ward</name>
+		<localizedName>Plague Ward</localizedName>
+	</ability>
+	<ability>
+		<id>5181</id>
+		<heroId>40</heroId>
+		<name>venomancer_poison_nova</name>
+		<localizedName>Poison Nova</localizedName>
+	</ability>
+	<ability>
+		<id>5182</id>
+		<heroId>41</heroId>
+		<name>faceless_void_time_walk</name>
+		<localizedName>Time Walk</localizedName>
+	</ability>
+	<ability>
+		<id>5183</id>
+		<heroId>41</heroId>
+		<name>faceless_void_backtrack</name>
+		<localizedName>Backtrack</localizedName>
+	</ability>
+	<ability>
+		<id>5184</id>
+		<heroId>41</heroId>
+		<name>faceless_void_time_lock</name>
+		<localizedName>Time Lock</localizedName>
+	</ability>
+	<ability>
+		<id>5185</id>
+		<heroId>41</heroId>
+		<name>faceless_void_chronosphere</name>
+		<localizedName>Chronosphere</localizedName>
+	</ability>
+	<ability>
+		<id>5186</id>
+		<heroId>45</heroId>
+		<name>pugna_nether_blast</name>
+		<localizedName>Nether Blast</localizedName>
+	</ability>
+	<ability>
+		<id>5187</id>
+		<heroId>45</heroId>
+		<name>pugna_decrepify</name>
+		<localizedName>Decrepify</localizedName>
+	</ability>
+	<ability>
+		<id>5188</id>
+		<heroId>45</heroId>
+		<name>pugna_nether_ward</name>
+		<localizedName>Nether Ward</localizedName>
+	</ability>
+	<ability>
+		<id>5189</id>
+		<heroId>45</heroId>
+		<name>pugna_life_drain</name>
+		<localizedName>Life Drain</localizedName>
+	</ability>
+	<ability>
+		<id>5190</id>
+		<heroId>44</heroId>
+		<name>phantom_assassin_stifling_dagger</name>
+		<localizedName>Stifling Dagger</localizedName>
+	</ability>
+	<ability>
+		<id>5191</id>
+		<heroId>44</heroId>
+		<name>phantom_assassin_phantom_strike</name>
+		<localizedName>Phantom Strike</localizedName>
+	</ability>
+	<ability>
+		<id>5192</id>
+		<heroId>44</heroId>
+		<name>phantom_assassin_blur</name>
+		<localizedName>Blur</localizedName>
+	</ability>
+	<ability>
+		<id>5193</id>
+		<heroId>44</heroId>
+		<name>phantom_assassin_coup_de_grace</name>
+		<localizedName>Coup de Grace</localizedName>
+	</ability>
+	<ability>
+		<id>5194</id>
+		<heroId>46</heroId>
+		<name>templar_assassin_refraction</name>
+		<localizedName>Refraction</localizedName>
+	</ability>
+	<ability>
+		<id>5195</id>
+		<heroId>46</heroId>
+		<name>templar_assassin_meld</name>
+		<localizedName>Meld</localizedName>
+	</ability>
+	<ability>
+		<id>5196</id>
+		<heroId>46</heroId>
+		<name>templar_assassin_psi_blades</name>
+		<localizedName>Psi Blades</localizedName>
+	</ability>
+	<ability>
+		<id>5197</id>
+		<heroId>46</heroId>
+		<name>templar_assassin_psionic_trap</name>
+		<localizedName>Psionic Trap</localizedName>
+	</ability>
+	<ability>
+		<id>5198</id>
+		<heroId>46</heroId>
+		<name>templar_assassin_trap</name>
+		<localizedName>Trap</localizedName>
+	</ability>
+	<ability>
+		<id>5218</id>
+		<heroId>47</heroId>
+		<name>viper_poison_attack</name>
+		<localizedName>Poison Attack</localizedName>
+	</ability>
+	<ability>
+		<id>5219</id>
+		<heroId>47</heroId>
+		<name>viper_nethertoxin</name>
+		<localizedName>Nethertoxin</localizedName>
+	</ability>
+	<ability>
+		<id>5220</id>
+		<heroId>47</heroId>
+		<name>viper_corrosive_skin</name>
+		<localizedName>Corrosive Skin</localizedName>
+	</ability>
+	<ability>
+		<id>5221</id>
+		<heroId>47</heroId>
+		<name>viper_viper_strike</name>
+		<localizedName>Viper Strike</localizedName>
+	</ability>
+	<ability>
+		<id>5222</id>
+		<heroId>48</heroId>
+		<name>luna_lucent_beam</name>
+		<localizedName>Lucent Beam</localizedName>
+	</ability>
+	<ability>
+		<id>5223</id>
+		<heroId>48</heroId>
+		<name>luna_moon_glaive</name>
+		<localizedName>Moon Glaive</localizedName>
+	</ability>
+	<ability>
+		<id>5224</id>
+		<heroId>48</heroId>
+		<name>luna_lunar_blessing</name>
+		<localizedName>Lunar Blessing</localizedName>
+	</ability>
+	<ability>
+		<id>5225</id>
+		<heroId>48</heroId>
+		<name>luna_eclipse</name>
+		<localizedName>Eclipse</localizedName>
+	</ability>
+	<ability>
+		<id>5226</id>
+		<heroId>49</heroId>
+		<name>dragon_knight_breathe_fire</name>
+		<localizedName>Breathe Fire</localizedName>
+	</ability>
+	<ability>
+		<id>5227</id>
+		<heroId>49</heroId>
+		<name>dragon_knight_dragon_tail</name>
+		<localizedName>Dragon Tail</localizedName>
+	</ability>
+	<ability>
+		<id>5228</id>
+		<heroId>49</heroId>
+		<name>dragon_knight_dragon_blood</name>
+		<localizedName>Dragon Blood</localizedName>
+	</ability>
+	<ability>
+		<id>5229</id>
+		<heroId>49</heroId>
+		<name>dragon_knight_elder_dragon_form</name>
+		<localizedName>Elder Dragon Form</localizedName>
+	</ability>
+	<ability>
+		<id>5233</id>
+		<heroId>50</heroId>
+		<name>dazzle_poison_touch</name>
+		<localizedName>Poison Touch</localizedName>
+	</ability>
+	<ability>
+		<id>5234</id>
+		<heroId>50</heroId>
+		<name>dazzle_shallow_grave</name>
+		<localizedName>Shallow Grave</localizedName>
+	</ability>
+	<ability>
+		<id>5235</id>
+		<heroId>50</heroId>
+		<name>dazzle_shadow_wave</name>
+		<localizedName>Shadow Wave</localizedName>
+	</ability>
+	<ability>
+		<id>5236</id>
+		<heroId>50</heroId>
+		<name>dazzle_weave</name>
+		<localizedName>Weave</localizedName>
+	</ability>
+	<ability>
+		<id>5237</id>
+		<heroId>51</heroId>
+		<name>rattletrap_battery_assault</name>
+		<localizedName>Battery Assault</localizedName>
+	</ability>
+	<ability>
+		<id>5238</id>
+		<heroId>51</heroId>
+		<name>rattletrap_power_cogs</name>
+		<localizedName>Power Cogs</localizedName>
+	</ability>
+	<ability>
+		<id>5239</id>
+		<heroId>51</heroId>
+		<name>rattletrap_rocket_flare</name>
+		<localizedName>Rocket Flare</localizedName>
+	</ability>
+	<ability>
+		<id>5240</id>
+		<heroId>51</heroId>
+		<name>rattletrap_hookshot</name>
+		<localizedName>Hookshot</localizedName>
+	</ability>
+	<ability>
+		<id>5241</id>
+		<heroId>52</heroId>
+		<name>leshrac_split_earth</name>
+		<localizedName>Split Earth</localizedName>
+	</ability>
+	<ability>
+		<id>5242</id>
+		<heroId>52</heroId>
+		<name>leshrac_diabolic_edict</name>
+		<localizedName>Diabolic Edict</localizedName>
+	</ability>
+	<ability>
+		<id>5243</id>
+		<heroId>52</heroId>
+		<name>leshrac_lightning_storm</name>
+		<localizedName>Lightning Storm</localizedName>
+	</ability>
+	<ability>
+		<id>5244</id>
+		<heroId>52</heroId>
+		<name>leshrac_pulse_nova</name>
+		<localizedName>Pulse Nova</localizedName>
+	</ability>
+	<ability>
+		<id>5245</id>
+		<heroId>53</heroId>
+		<name>furion_sprout</name>
+		<localizedName>Sprout</localizedName>
+	</ability>
+	<ability>
+		<id>5246</id>
+		<heroId>53</heroId>
+		<name>furion_teleportation</name>
+		<localizedName>Teleportation</localizedName>
+	</ability>
+	<ability>
+		<id>5247</id>
+		<heroId>53</heroId>
+		<name>furion_force_of_nature</name>
+		<localizedName>Nature's Call</localizedName>
+	</ability>
+	<ability>
+		<id>5248</id>
+		<heroId>53</heroId>
+		<name>furion_wrath_of_nature</name>
+		<localizedName>Wrath of Nature</localizedName>
+	</ability>
+	<ability>
+		<id>5249</id>
+		<heroId>54</heroId>
+		<name>life_stealer_rage</name>
+		<localizedName>Rage</localizedName>
+	</ability>
+	<ability>
+		<id>5250</id>
+		<heroId>54</heroId>
+		<name>life_stealer_feast</name>
+		<localizedName>Feast</localizedName>
+	</ability>
+	<ability>
+		<id>5251</id>
+		<heroId>54</heroId>
+		<name>life_stealer_open_wounds</name>
+		<localizedName>Open Wounds</localizedName>
+	</ability>
+	<ability>
+		<id>5252</id>
+		<heroId>54</heroId>
+		<name>life_stealer_infest</name>
+		<localizedName>Infest</localizedName>
+	</ability>
+	<ability>
+		<id>5253</id>
+		<heroId>54</heroId>
+		<name>life_stealer_consume</name>
+		<localizedName>Consume</localizedName>
+	</ability>
+	<ability>
+		<id>5255</id>
+		<heroId>55</heroId>
+		<name>dark_seer_vacuum</name>
+		<localizedName>Vacuum</localizedName>
+	</ability>
+	<ability>
+		<id>5256</id>
+		<heroId>55</heroId>
+		<name>dark_seer_ion_shell</name>
+		<localizedName>Ion Shell</localizedName>
+	</ability>
+	<ability>
+		<id>5257</id>
+		<heroId>55</heroId>
+		<name>dark_seer_surge</name>
+		<localizedName>Surge</localizedName>
+	</ability>
+	<ability>
+		<id>5258</id>
+		<heroId>55</heroId>
+		<name>dark_seer_wall_of_replica</name>
+		<localizedName>Wall of Replica</localizedName>
+	</ability>
+	<ability>
+		<id>5259</id>
+		<heroId>56</heroId>
+		<name>clinkz_strafe</name>
+		<localizedName>Strafe</localizedName>
+	</ability>
+	<ability>
+		<id>5260</id>
+		<heroId>56</heroId>
+		<name>clinkz_searing_arrows</name>
+		<localizedName>Searing Arrows</localizedName>
+	</ability>
+	<ability>
+		<id>5261</id>
+		<heroId>56</heroId>
+		<name>clinkz_wind_walk</name>
+		<localizedName>Skeleton Walk</localizedName>
+	</ability>
+	<ability>
+		<id>5262</id>
+		<heroId>56</heroId>
+		<name>clinkz_death_pact</name>
+		<localizedName>Death Pact</localizedName>
+	</ability>
+	<ability>
+		<id>5263</id>
+		<heroId>57</heroId>
+		<name>omniknight_purification</name>
+		<localizedName>Purification</localizedName>
+	</ability>
+	<ability>
+		<id>5264</id>
+		<heroId>57</heroId>
+		<name>omniknight_repel</name>
+		<localizedName>Repel</localizedName>
+	</ability>
+	<ability>
+		<id>5265</id>
+		<heroId>57</heroId>
+		<name>omniknight_degen_aura</name>
+		<localizedName>Degen Aura</localizedName>
+	</ability>
+	<ability>
+		<id>5266</id>
+		<heroId>57</heroId>
+		<name>omniknight_guardian_angel</name>
+		<localizedName>Guardian Angel</localizedName>
+	</ability>
+	<ability>
+		<id>5267</id>
+		<heroId>58</heroId>
+		<name>enchantress_untouchable</name>
+		<localizedName>Untouchable</localizedName>
+	</ability>
+	<ability>
+		<id>5268</id>
+		<heroId>58</heroId>
+		<name>enchantress_enchant</name>
+		<localizedName>Enchant</localizedName>
+	</ability>
+	<ability>
+		<id>5269</id>
+		<heroId>58</heroId>
+		<name>enchantress_natures_attendants</name>
+		<localizedName>Nature's Attendants</localizedName>
+	</ability>
+	<ability>
+		<id>5270</id>
+		<heroId>58</heroId>
+		<name>enchantress_impetus</name>
+		<localizedName>Impetus</localizedName>
+	</ability>
+	<ability>
+		<id>5271</id>
+		<heroId>59</heroId>
+		<name>huskar_inner_vitality</name>
+		<localizedName>Inner Vitality</localizedName>
+	</ability>
+	<ability>
+		<id>5272</id>
+		<heroId>59</heroId>
+		<name>huskar_burning_spear</name>
+		<localizedName>Burning Spear</localizedName>
+	</ability>
+	<ability>
+		<id>5273</id>
+		<heroId>59</heroId>
+		<name>huskar_berserkers_blood</name>
+		<localizedName>Berserker's Blood</localizedName>
+	</ability>
+	<ability>
+		<id>5274</id>
+		<heroId>59</heroId>
+		<name>huskar_life_break</name>
+		<localizedName>Life Break</localizedName>
+	</ability>
+	<ability>
+		<id>5275</id>
+		<heroId>60</heroId>
+		<name>night_stalker_void</name>
+		<localizedName>Void</localizedName>
+	</ability>
+	<ability>
+		<id>5276</id>
+		<heroId>60</heroId>
+		<name>night_stalker_crippling_fear</name>
+		<localizedName>Crippling Fear</localizedName>
+	</ability>
+	<ability>
+		<id>5277</id>
+		<heroId>60</heroId>
+		<name>night_stalker_hunter_in_the_night</name>
+		<localizedName>Hunter in the Night</localizedName>
+	</ability>
+	<ability>
+		<id>5278</id>
+		<heroId>60</heroId>
+		<name>night_stalker_darkness</name>
+		<localizedName>Darkness</localizedName>
+	</ability>
+	<ability>
+		<id>5279</id>
+		<heroId>61</heroId>
+		<name>broodmother_spawn_spiderlings</name>
+		<localizedName>Spawn Spiderlings</localizedName>
+	</ability>
+	<ability>
+		<id>5280</id>
+		<heroId>61</heroId>
+		<name>broodmother_spin_web</name>
+		<localizedName>Spin Web</localizedName>
+	</ability>
+	<ability>
+		<id>5281</id>
+		<heroId>61</heroId>
+		<name>broodmother_incapacitating_bite</name>
+		<localizedName>Incapacitating Bite</localizedName>
+	</ability>
+	<ability>
+		<id>5282</id>
+		<heroId>61</heroId>
+		<name>broodmother_insatiable_hunger</name>
+		<localizedName>Insatiable Hunger</localizedName>
+	</ability>
+	<ability>
+		<id>5285</id>
+		<heroId>62</heroId>
+		<name>bounty_hunter_shuriken_toss</name>
+		<localizedName>Shuriken Toss</localizedName>
+	</ability>
+	<ability>
+		<id>5286</id>
+		<heroId>62</heroId>
+		<name>bounty_hunter_jinada</name>
+		<localizedName>Jinada</localizedName>
+	</ability>
+	<ability>
+		<id>5287</id>
+		<heroId>62</heroId>
+		<name>bounty_hunter_wind_walk</name>
+		<localizedName>Shadow Walk</localizedName>
+	</ability>
+	<ability>
+		<id>5288</id>
+		<heroId>62</heroId>
+		<name>bounty_hunter_track</name>
+		<localizedName>Track</localizedName>
+	</ability>
+	<ability>
+		<id>5289</id>
+		<heroId>63</heroId>
+		<name>weaver_the_swarm</name>
+		<localizedName>The Swarm</localizedName>
+	</ability>
+	<ability>
+		<id>5290</id>
+		<heroId>63</heroId>
+		<name>weaver_shukuchi</name>
+		<localizedName>Shukuchi</localizedName>
+	</ability>
+	<ability>
+		<id>5291</id>
+		<heroId>63</heroId>
+		<name>weaver_geminate_attack</name>
+		<localizedName>Geminate Attack</localizedName>
+	</ability>
+	<ability>
+		<id>5292</id>
+		<heroId>63</heroId>
+		<name>weaver_time_lapse</name>
+		<localizedName>Time Lapse</localizedName>
+	</ability>
+	<ability>
+		<id>5297</id>
+		<heroId>64</heroId>
+		<name>jakiro_dual_breath</name>
+		<localizedName>Dual Breath</localizedName>
+	</ability>
+	<ability>
+		<id>5298</id>
+		<heroId>64</heroId>
+		<name>jakiro_ice_path</name>
+		<localizedName>Ice Path</localizedName>
+	</ability>
+	<ability>
+		<id>5299</id>
+		<heroId>64</heroId>
+		<name>jakiro_liquid_fire</name>
+		<localizedName>Liquid Fire</localizedName>
+	</ability>
+	<ability>
+		<id>5300</id>
+		<heroId>64</heroId>
+		<name>jakiro_macropyre</name>
+		<localizedName>Macropyre</localizedName>
+	</ability>
+	<ability>
+		<id>5320</id>
+		<heroId>65</heroId>
+		<name>batrider_sticky_napalm</name>
+		<localizedName>Sticky Napalm</localizedName>
+	</ability>
+	<ability>
+		<id>5321</id>
+		<heroId>65</heroId>
+		<name>batrider_flamebreak</name>
+		<localizedName>Flamebreak</localizedName>
+	</ability>
+	<ability>
+		<id>5322</id>
+		<heroId>65</heroId>
+		<name>batrider_firefly</name>
+		<localizedName>Firefly</localizedName>
+	</ability>
+	<ability>
+		<id>5323</id>
+		<heroId>65</heroId>
+		<name>batrider_flaming_lasso</name>
+		<localizedName>Flaming Lasso</localizedName>
+	</ability>
+	<ability>
+		<id>5328</id>
+		<heroId>66</heroId>
+		<name>chen_penitence</name>
+		<localizedName>Penitence</localizedName>
+	</ability>
+	<ability>
+		<id>5329</id>
+		<heroId>66</heroId>
+		<name>chen_test_of_faith</name>
+		<localizedName>Test of Faith</localizedName>
+	</ability>
+	<ability>
+		<id>5522</id>
+		<heroId>66</heroId>
+		<name>chen_test_of_faith_teleport</name>
+		<localizedName>Test of Faith</localizedName>
+	</ability>
+	<ability>
+		<id>5330</id>
+		<heroId>66</heroId>
+		<name>chen_holy_persuasion</name>
+		<localizedName>Holy Persuasion</localizedName>
+	</ability>
+	<ability>
+		<id>5331</id>
+		<heroId>66</heroId>
+		<name>chen_hand_of_god</name>
+		<localizedName>Hand of God</localizedName>
+	</ability>
+	<ability>
+		<id>5334</id>
+		<heroId>67</heroId>
+		<name>spectre_spectral_dagger</name>
+		<localizedName>Spectral Dagger</localizedName>
+	</ability>
+	<ability>
+		<id>5335</id>
+		<heroId>67</heroId>
+		<name>spectre_desolate</name>
+		<localizedName>Desolate</localizedName>
+	</ability>
+	<ability>
+		<id>5336</id>
+		<heroId>67</heroId>
+		<name>spectre_dispersion</name>
+		<localizedName>Dispersion</localizedName>
+	</ability>
+	<ability>
+		<id>5337</id>
+		<heroId>67</heroId>
+		<name>spectre_haunt</name>
+		<localizedName>Haunt</localizedName>
+	</ability>
+	<ability>
+		<id>5338</id>
+		<heroId>67</heroId>
+		<name>spectre_reality</name>
+		<localizedName>Reality</localizedName>
+	</ability>
+	<ability>
+		<id>5339</id>
+		<heroId>69</heroId>
+		<name>doom_bringer_devour</name>
+		<localizedName>Devour</localizedName>
+	</ability>
+	<ability>
+		<id>5340</id>
+		<heroId>69</heroId>
+		<name>doom_bringer_scorched_earth</name>
+		<localizedName>Scorched Earth</localizedName>
+	</ability>
+	<ability>
+		<id>5341</id>
+		<heroId>69</heroId>
+		<name>doom_bringer_lvl_death</name>
+		<localizedName>LVL? Death</localizedName>
+	</ability>
+	<ability>
+		<id>5342</id>
+		<heroId>69</heroId>
+		<name>doom_bringer_doom</name>
+		<localizedName>Doom</localizedName>
+	</ability>
+	<ability>
+		<id>5345</id>
+		<heroId>68</heroId>
+		<name>ancient_apparition_cold_feet</name>
+		<localizedName>Cold Feet</localizedName>
+	</ability>
+	<ability>
+		<id>5346</id>
+		<heroId>68</heroId>
+		<name>ancient_apparition_ice_vortex</name>
+		<localizedName>Ice Vortex</localizedName>
+	</ability>
+	<ability>
+		<id>5347</id>
+		<heroId>68</heroId>
+		<name>ancient_apparition_chilling_touch</name>
+		<localizedName>Chilling Touch</localizedName>
+	</ability>
+	<ability>
+		<id>5348</id>
+		<heroId>68</heroId>
+		<name>ancient_apparition_ice_blast</name>
+		<localizedName>Ice Blast</localizedName>
+	</ability>
+	<ability>
+		<id>5349</id>
+		<heroId>68</heroId>
+		<name>ancient_apparition_ice_blast_release</name>
+		<localizedName>Release</localizedName>
+	</ability>
+	<ability>
+		<id>5353</id>
+		<heroId>71</heroId>
+		<name>spirit_breaker_charge_of_darkness</name>
+		<localizedName>Charge of Darkness</localizedName>
+	</ability>
+	<ability>
+		<id>5354</id>
+		<heroId>71</heroId>
+		<name>spirit_breaker_empowering_haste</name>
+		<localizedName>Empowering Haste</localizedName>
+	</ability>
+	<ability>
+		<id>5355</id>
+		<heroId>71</heroId>
+		<name>spirit_breaker_greater_bash</name>
+		<localizedName>Greater Bash</localizedName>
+	</ability>
+	<ability>
+		<id>5356</id>
+		<heroId>71</heroId>
+		<name>spirit_breaker_nether_strike</name>
+		<localizedName>Nether Strike</localizedName>
+	</ability>
+	<ability>
+		<id>5357</id>
+		<heroId>70</heroId>
+		<name>ursa_earthshock</name>
+		<localizedName>Earthshock</localizedName>
+	</ability>
+	<ability>
+		<id>5358</id>
+		<heroId>70</heroId>
+		<name>ursa_overpower</name>
+		<localizedName>Overpower</localizedName>
+	</ability>
+	<ability>
+		<id>5359</id>
+		<heroId>70</heroId>
+		<name>ursa_fury_swipes</name>
+		<localizedName>Fury Swipes</localizedName>
+	</ability>
+	<ability>
+		<id>5360</id>
+		<heroId>70</heroId>
+		<name>ursa_enrage</name>
+		<localizedName>Enrage</localizedName>
+	</ability>
+	<ability>
+		<id>5361</id>
+		<heroId>72</heroId>
+		<name>gyrocopter_rocket_barrage</name>
+		<localizedName>Rocket Barrage</localizedName>
+	</ability>
+	<ability>
+		<id>5362</id>
+		<heroId>72</heroId>
+		<name>gyrocopter_homing_missile</name>
+		<localizedName>Homing Missile</localizedName>
+	</ability>
+	<ability>
+		<id>5363</id>
+		<heroId>72</heroId>
+		<name>gyrocopter_flak_cannon</name>
+		<localizedName>Flak Cannon</localizedName>
+	</ability>
+	<ability>
+		<id>5364</id>
+		<heroId>72</heroId>
+		<name>gyrocopter_call_down</name>
+		<localizedName>Call Down</localizedName>
+	</ability>
+	<ability>
+		<id>5365</id>
+		<heroId>73</heroId>
+		<name>alchemist_acid_spray</name>
+		<localizedName>Acid Spray</localizedName>
+	</ability>
+	<ability>
+		<id>5366</id>
+		<heroId>73</heroId>
+		<name>alchemist_unstable_concoction</name>
+		<localizedName>Unstable Concoction</localizedName>
+	</ability>
+	<ability>
+		<id>5367</id>
+		<heroId>73</heroId>
+		<name>alchemist_unstable_concoction_throw</name>
+		<localizedName>Unstable Concoction Throw</localizedName>
+	</ability>
+	<ability>
+		<id>5368</id>
+		<heroId>73</heroId>
+		<name>alchemist_goblins_greed</name>
+		<localizedName>Greevil's Greed</localizedName>
+	</ability>
+	<ability>
+		<id>5369</id>
+		<heroId>73</heroId>
+		<name>alchemist_chemical_rage</name>
+		<localizedName>Chemical Rage</localizedName>
+	</ability>
+	<ability>
+		<id>5370</id>
+		<heroId>74</heroId>
+		<name>invoker_quas</name>
+		<localizedName>Quas</localizedName>
+	</ability>
+	<ability>
+		<id>5371</id>
+		<heroId>74</heroId>
+		<name>invoker_wex</name>
+		<localizedName>Wex</localizedName>
+	</ability>
+	<ability>
+		<id>5372</id>
+		<heroId>74</heroId>
+		<name>invoker_exort</name>
+		<localizedName>Exort</localizedName>
+	</ability>
+	<ability>
+		<id>5375</id>
+		<heroId>74</heroId>
+		<name>invoker_invoke</name>
+		<localizedName>Invoke</localizedName>
+	</ability>
+	<ability>
+		<id>5376</id>
+		<heroId>74</heroId>
+		<name>invoker_cold_snap</name>
+		<localizedName>Cold Snap</localizedName>
+	</ability>
+	<ability>
+		<id>5381</id>
+		<heroId>74</heroId>
+		<name>invoker_ghost_walk</name>
+		<localizedName>Ghost Walk</localizedName>
+	</ability>
+	<ability>
+		<id>5382</id>
+		<heroId>74</heroId>
+		<name>invoker_tornado</name>
+		<localizedName>Tornado</localizedName>
+	</ability>
+	<ability>
+		<id>5383</id>
+		<heroId>74</heroId>
+		<name>invoker_emp</name>
+		<localizedName>EMP</localizedName>
+	</ability>
+	<ability>
+		<id>5384</id>
+		<heroId>74</heroId>
+		<name>invoker_alacrity</name>
+		<localizedName>Alacrity</localizedName>
+	</ability>
+	<ability>
+		<id>5385</id>
+		<heroId>74</heroId>
+		<name>invoker_chaos_meteor</name>
+		<localizedName>Chaos Meteor</localizedName>
+	</ability>
+	<ability>
+		<id>5386</id>
+		<heroId>74</heroId>
+		<name>invoker_sun_strike</name>
+		<localizedName>Sun Strike</localizedName>
+	</ability>
+	<ability>
+		<id>5387</id>
+		<heroId>74</heroId>
+		<name>invoker_forge_spirit</name>
+		<localizedName>Forge Spirit</localizedName>
+	</ability>
+	<ability>
+		<id>5389</id>
+		<heroId>74</heroId>
+		<name>invoker_ice_wall</name>
+		<localizedName>Ice Wall</localizedName>
+	</ability>
+	<ability>
+		<id>5390</id>
+		<heroId>74</heroId>
+		<name>invoker_deafening_blast</name>
+		<localizedName>Deafening Blast</localizedName>
+	</ability>
+	<ability>
+		<id>5377</id>
+		<heroId>75</heroId>
+		<name>silencer_curse_of_the_silent</name>
+		<localizedName>Curse of the Silent</localizedName>
+	</ability>
+	<ability>
+		<id>5378</id>
+		<heroId>75</heroId>
+		<name>silencer_glaives_of_wisdom</name>
+		<localizedName>Glaives of Wisdom</localizedName>
+	</ability>
+	<ability>
+		<id>5379</id>
+		<heroId>75</heroId>
+		<name>silencer_last_word</name>
+		<localizedName>Last Word</localizedName>
+	</ability>
+	<ability>
+		<id>5380</id>
+		<heroId>75</heroId>
+		<name>silencer_global_silence</name>
+		<localizedName>Global Silence</localizedName>
+	</ability>
+	<ability>
+		<id>5391</id>
+		<heroId>76</heroId>
+		<name>obsidian_destroyer_arcane_orb</name>
+		<localizedName>Arcane Orb</localizedName>
+	</ability>
+	<ability>
+		<id>5392</id>
+		<heroId>76</heroId>
+		<name>obsidian_destroyer_astral_imprisonment</name>
+		<localizedName>Astral Imprisonment</localizedName>
+	</ability>
+	<ability>
+		<id>5393</id>
+		<heroId>76</heroId>
+		<name>obsidian_destroyer_essence_aura</name>
+		<localizedName>Essence Aura</localizedName>
+	</ability>
+	<ability>
+		<id>5394</id>
+		<heroId>76</heroId>
+		<name>obsidian_destroyer_sanity_eclipse</name>
+		<localizedName>Sanity's Eclipse</localizedName>
+	</ability>
+	<ability>
+		<id>5395</id>
+		<heroId>77</heroId>
+		<name>lycan_summon_wolves</name>
+		<localizedName>Summon Wolves</localizedName>
+	</ability>
+	<ability>
+		<id>5396</id>
+		<heroId>77</heroId>
+		<name>lycan_howl</name>
+		<localizedName>Howl</localizedName>
+	</ability>
+	<ability>
+		<id>5397</id>
+		<heroId>77</heroId>
+		<name>lycan_feral_impulse</name>
+		<localizedName>Feral Impulse</localizedName>
+	</ability>
+	<ability>
+		<id>5398</id>
+		<heroId>77</heroId>
+		<name>lycan_shapeshift</name>
+		<localizedName>Shapeshift</localizedName>
+	</ability>
+	<ability>
+		<id>5412</id>
+		<heroId>80</heroId>
+		<name>lone_druid_spirit_bear</name>
+		<localizedName>Summon Spirit Bear</localizedName>
+	</ability>
+	<ability>
+		<id>5413</id>
+		<heroId>80</heroId>
+		<name>lone_druid_rabid</name>
+		<localizedName>Rabid</localizedName>
+	</ability>
+	<ability>
+		<id>5414</id>
+		<heroId>80</heroId>
+		<name>lone_druid_synergy</name>
+		<localizedName>Synergy</localizedName>
+	</ability>
+	<ability>
+		<id>5415</id>
+		<heroId>80</heroId>
+		<name>lone_druid_true_form</name>
+		<localizedName>True Form</localizedName>
+	</ability>
+	<ability>
+		<id>5416</id>
+		<heroId>80</heroId>
+		<name>lone_druid_true_form_druid</name>
+		<localizedName>Druid Form</localizedName>
+	</ability>
+	<ability>
+		<id>5417</id>
+		<heroId>80</heroId>
+		<name>lone_druid_true_form_battle_cry</name>
+		<localizedName>Battle Cry</localizedName>
+	</ability>
+	<ability>
+		<id>5400</id>
+		<heroId>78</heroId>
+		<name>brewmaster_thunder_clap</name>
+		<localizedName>Thunder Clap</localizedName>
+	</ability>
+	<ability>
+		<id>5401</id>
+		<heroId>78</heroId>
+		<name>brewmaster_drunken_haze</name>
+		<localizedName>Drunken Haze</localizedName>
+	</ability>
+	<ability>
+		<id>5402</id>
+		<heroId>78</heroId>
+		<name>brewmaster_drunken_brawler</name>
+		<localizedName>Drunken Brawler</localizedName>
+	</ability>
+	<ability>
+		<id>5403</id>
+		<heroId>78</heroId>
+		<name>brewmaster_primal_split</name>
+		<localizedName>Primal Split</localizedName>
+	</ability>
+	<ability>
+		<id>5421</id>
+		<heroId>79</heroId>
+		<name>shadow_demon_disruption</name>
+		<localizedName>Disruption</localizedName>
+	</ability>
+	<ability>
+		<id>5422</id>
+		<heroId>79</heroId>
+		<name>shadow_demon_soul_catcher</name>
+		<localizedName>Soul Catcher</localizedName>
+	</ability>
+	<ability>
+		<id>5423</id>
+		<heroId>79</heroId>
+		<name>shadow_demon_shadow_poison</name>
+		<localizedName>Shadow Poison</localizedName>
+	</ability>
+	<ability>
+		<id>5424</id>
+		<heroId>79</heroId>
+		<name>shadow_demon_shadow_poison_release</name>
+		<localizedName>Shadow Poison Release</localizedName>
+	</ability>
+	<ability>
+		<id>5425</id>
+		<heroId>79</heroId>
+		<name>shadow_demon_demonic_purge</name>
+		<localizedName>Demonic Purge</localizedName>
+	</ability>
+	<ability>
+		<id>5426</id>
+		<heroId>81</heroId>
+		<name>chaos_knight_chaos_bolt</name>
+		<localizedName>Chaos Bolt</localizedName>
+	</ability>
+	<ability>
+		<id>5427</id>
+		<heroId>81</heroId>
+		<name>chaos_knight_reality_rift</name>
+		<localizedName>Reality Rift</localizedName>
+	</ability>
+	<ability>
+		<id>5428</id>
+		<heroId>81</heroId>
+		<name>chaos_knight_chaos_strike</name>
+		<localizedName>Chaos Strike</localizedName>
+	</ability>
+	<ability>
+		<id>5429</id>
+		<heroId>81</heroId>
+		<name>chaos_knight_phantasm</name>
+		<localizedName>Phantasm</localizedName>
+	</ability>
+	<ability>
+		<id>5430</id>
+		<heroId>82</heroId>
+		<name>meepo_earthbind</name>
+		<localizedName>Earthbind</localizedName>
+	</ability>
+	<ability>
+		<id>5431</id>
+		<heroId>82</heroId>
+		<name>meepo_poof</name>
+		<localizedName>Poof</localizedName>
+	</ability>
+	<ability>
+		<id>5432</id>
+		<heroId>82</heroId>
+		<name>meepo_geostrike</name>
+		<localizedName>Geostrike</localizedName>
+	</ability>
+	<ability>
+		<id>5433</id>
+		<heroId>82</heroId>
+		<name>meepo_divided_we_stand</name>
+		<localizedName>Divided We Stand</localizedName>
+	</ability>
+	<ability>
+		<id>5434</id>
+		<heroId>83</heroId>
+		<name>treant_natures_guise</name>
+		<localizedName>Nature's Guise</localizedName>
+	</ability>
+	<ability>
+		<id>5435</id>
+		<heroId>83</heroId>
+		<name>treant_leech_seed</name>
+		<localizedName>Leech Seed</localizedName>
+	</ability>
+	<ability>
+		<id>5436</id>
+		<heroId>83</heroId>
+		<name>treant_living_armor</name>
+		<localizedName>Living Armor</localizedName>
+	</ability>
+	<ability>
+		<id>5437</id>
+		<heroId>83</heroId>
+		<name>treant_overgrowth</name>
+		<localizedName>Overgrowth</localizedName>
+	</ability>
+	<ability>
+		<id>5438</id>
+		<heroId>84</heroId>
+		<name>ogre_magi_fireblast</name>
+		<localizedName>Fireblast</localizedName>
+	</ability>
+	<ability>
+		<id>5466</id>
+		<heroId>84</heroId>
+		<name>ogre_magi_unrefined_fireblast</name>
+		<localizedName>Unrefined Fireblast</localizedName>
+	</ability>
+	<ability>
+		<id>5439</id>
+		<heroId>84</heroId>
+		<name>ogre_magi_ignite</name>
+		<localizedName>Ignite</localizedName>
+	</ability>
+	<ability>
+		<id>5440</id>
+		<heroId>84</heroId>
+		<name>ogre_magi_bloodlust</name>
+		<localizedName>Bloodlust</localizedName>
+	</ability>
+	<ability>
+		<id>5441</id>
+		<heroId>84</heroId>
+		<name>ogre_magi_multicast</name>
+		<localizedName>Multicast</localizedName>
+	</ability>
+	<ability>
+		<id>5442</id>
+		<heroId>85</heroId>
+		<name>undying_decay</name>
+		<localizedName>Decay</localizedName>
+	</ability>
+	<ability>
+		<id>5443</id>
+		<heroId>85</heroId>
+		<name>undying_soul_rip</name>
+		<localizedName>Soul Rip</localizedName>
+	</ability>
+	<ability>
+		<id>5444</id>
+		<heroId>85</heroId>
+		<name>undying_tombstone</name>
+		<localizedName>Tombstone</localizedName>
+	</ability>
+	<ability>
+		<id>5447</id>
+		<heroId>85</heroId>
+		<name>undying_flesh_golem</name>
+		<localizedName>Flesh Golem</localizedName>
+	</ability>
+	<ability>
+		<id>5448</id>
+		<heroId>86</heroId>
+		<name>rubick_telekinesis</name>
+		<localizedName>Telekinesis</localizedName>
+	</ability>
+	<ability>
+		<id>5449</id>
+		<heroId>86</heroId>
+		<name>rubick_telekinesis_land</name>
+		<localizedName>Telekinesis Land</localizedName>
+	</ability>
+	<ability>
+		<id>5450</id>
+		<heroId>86</heroId>
+		<name>rubick_fade_bolt</name>
+		<localizedName>Fade Bolt</localizedName>
+	</ability>
+	<ability>
+		<id>5451</id>
+		<heroId>86</heroId>
+		<name>rubick_null_field</name>
+		<localizedName>Null Field</localizedName>
+	</ability>
+	<ability>
+		<id>5452</id>
+		<heroId>86</heroId>
+		<name>rubick_spell_steal</name>
+		<localizedName>Spell Steal</localizedName>
+	</ability>
+	<ability>
+		<id>5458</id>
+		<heroId>87</heroId>
+		<name>disruptor_thunder_strike</name>
+		<localizedName>Thunder Strike</localizedName>
+	</ability>
+	<ability>
+		<id>5459</id>
+		<heroId>87</heroId>
+		<name>disruptor_glimpse</name>
+		<localizedName>Glimpse</localizedName>
+	</ability>
+	<ability>
+		<id>5460</id>
+		<heroId>87</heroId>
+		<name>disruptor_kinetic_field</name>
+		<localizedName>Kinetic Field</localizedName>
+	</ability>
+	<ability>
+		<id>5461</id>
+		<heroId>87</heroId>
+		<name>disruptor_static_storm</name>
+		<localizedName>Static Storm</localizedName>
+	</ability>
+	<ability>
+		<id>5462</id>
+		<heroId>88</heroId>
+		<name>nyx_assassin_impale</name>
+		<localizedName>Impale</localizedName>
+	</ability>
+	<ability>
+		<id>5463</id>
+		<heroId>88</heroId>
+		<name>nyx_assassin_mana_burn</name>
+		<localizedName>Mana Burn</localizedName>
+	</ability>
+	<ability>
+		<id>5464</id>
+		<heroId>88</heroId>
+		<name>nyx_assassin_spiked_carapace</name>
+		<localizedName>Spiked Carapace</localizedName>
+	</ability>
+	<ability>
+		<id>5465</id>
+		<heroId>88</heroId>
+		<name>nyx_assassin_vendetta</name>
+		<localizedName>Vendetta</localizedName>
+	</ability>
+	<ability>
+		<id>5467</id>
+		<heroId>89</heroId>
+		<name>naga_siren_mirror_image</name>
+		<localizedName>Mirror Image</localizedName>
+	</ability>
+	<ability>
+		<id>5468</id>
+		<heroId>89</heroId>
+		<name>naga_siren_ensnare</name>
+		<localizedName>Ensnare</localizedName>
+	</ability>
+	<ability>
+		<id>5469</id>
+		<heroId>89</heroId>
+		<name>naga_siren_rip_tide</name>
+		<localizedName>Rip Tide</localizedName>
+	</ability>
+	<ability>
+		<id>5470</id>
+		<heroId>89</heroId>
+		<name>naga_siren_song_of_the_siren</name>
+		<localizedName>Song of the Siren</localizedName>
+	</ability>
+	<ability>
+		<id>5478</id>
+		<heroId>89</heroId>
+		<name>naga_siren_song_of_the_siren_cancel</name>
+		<localizedName>Song of the Siren Cancel</localizedName>
+	</ability>
+	<ability>
+		<id>5471</id>
+		<heroId>90</heroId>
+		<name>keeper_of_the_light_illuminate</name>
+		<localizedName>Illuminate</localizedName>
+	</ability>
+	<ability>
+		<id>5472</id>
+		<heroId>90</heroId>
+		<name>keeper_of_the_light_mana_leak</name>
+		<localizedName>Mana Leak</localizedName>
+	</ability>
+	<ability>
+		<id>5473</id>
+		<heroId>90</heroId>
+		<name>keeper_of_the_light_chakra_magic</name>
+		<localizedName>Chakra Magic</localizedName>
+	</ability>
+	<ability>
+		<id>5474</id>
+		<heroId>90</heroId>
+		<name>keeper_of_the_light_spirit_form</name>
+		<localizedName>Spirit Form</localizedName>
+	</ability>
+	<ability>
+		<id>5475</id>
+		<heroId>90</heroId>
+		<name>keeper_of_the_light_recall</name>
+		<localizedName>Recall</localizedName>
+	</ability>
+	<ability>
+		<id>5476</id>
+		<heroId>90</heroId>
+		<name>keeper_of_the_light_blinding_light</name>
+		<localizedName>Blinding Light</localizedName>
+	</ability>
+	<ability>
+		<id>5477</id>
+		<heroId>90</heroId>
+		<name>keeper_of_the_light_illuminate_end</name>
+		<localizedName>Release Illuminate</localizedName>
+	</ability>
+	<ability>
+		<id>5479</id>
+		<heroId>90</heroId>
+		<name>keeper_of_the_light_spirit_form_illuminate</name>
+		<localizedName>Illuminate</localizedName>
+	</ability>
+	<ability>
+		<id>5503</id>
+		<heroId>90</heroId>
+		<name>keeper_of_the_light_spirit_form_illuminate_end</name>
+		<localizedName>Release Illuminate</localizedName>
+	</ability>
+	<ability>
+		<id>5480</id>
+		<heroId>92</heroId>
+		<name>visage_grave_chill</name>
+		<localizedName>Grave Chill</localizedName>
+	</ability>
+	<ability>
+		<id>5481</id>
+		<heroId>92</heroId>
+		<name>visage_soul_assumption</name>
+		<localizedName>Soul Assumption</localizedName>
+	</ability>
+	<ability>
+		<id>5482</id>
+		<heroId>92</heroId>
+		<name>visage_gravekeepers_cloak</name>
+		<localizedName>Gravekeeper's Cloak</localizedName>
+	</ability>
+	<ability>
+		<id>5483</id>
+		<heroId>92</heroId>
+		<name>visage_summon_familiars</name>
+		<localizedName>Summon Familiars</localizedName>
+	</ability>
+	<ability>
+		<id>5485</id>
+		<heroId>91</heroId>
+		<name>wisp_tether</name>
+		<localizedName>Tether</localizedName>
+	</ability>
+	<ability>
+		<id>5486</id>
+		<heroId>91</heroId>
+		<name>wisp_spirits</name>
+		<localizedName>Spirits</localizedName>
+	</ability>
+	<ability>
+		<id>5487</id>
+		<heroId>91</heroId>
+		<name>wisp_overcharge</name>
+		<localizedName>Overcharge</localizedName>
+	</ability>
+	<ability>
+		<id>5488</id>
+		<heroId>91</heroId>
+		<name>wisp_relocate</name>
+		<localizedName>Relocate</localizedName>
+	</ability>
+	<ability>
+		<id>5489</id>
+		<heroId>91</heroId>
+		<name>wisp_tether_break</name>
+		<localizedName>Break Tether</localizedName>
+	</ability>
+	<ability>
+		<id>5490</id>
+		<heroId>91</heroId>
+		<name>wisp_spirits_in</name>
+		<localizedName>Spirits In</localizedName>
+	</ability>
+	<ability>
+		<id>5493</id>
+		<heroId>91</heroId>
+		<name>wisp_spirits_out</name>
+		<localizedName>Spirits Out</localizedName>
+	</ability>
+	<ability>
+		<id>5494</id>
+		<heroId>93</heroId>
+		<name>slark_dark_pact</name>
+		<localizedName>Dark Pact</localizedName>
+	</ability>
+	<ability>
+		<id>5495</id>
+		<heroId>93</heroId>
+		<name>slark_pounce</name>
+		<localizedName>Pounce</localizedName>
+	</ability>
+	<ability>
+		<id>5496</id>
+		<heroId>93</heroId>
+		<name>slark_essence_shift</name>
+		<localizedName>Essence Shift</localizedName>
+	</ability>
+	<ability>
+		<id>5497</id>
+		<heroId>93</heroId>
+		<name>slark_shadow_dance</name>
+		<localizedName>Shadow Dance</localizedName>
+	</ability>
+	<ability>
+		<id>5504</id>
+		<heroId>94</heroId>
+		<name>medusa_split_shot</name>
+		<localizedName>Split Shot</localizedName>
+	</ability>
+	<ability>
+		<id>5505</id>
+		<heroId>94</heroId>
+		<name>medusa_mystic_snake</name>
+		<localizedName>Mystic Snake</localizedName>
+	</ability>
+	<ability>
+		<id>5506</id>
+		<heroId>94</heroId>
+		<name>medusa_mana_shield</name>
+		<localizedName>Mana Shield</localizedName>
+	</ability>
+	<ability>
+		<id>5507</id>
+		<heroId>94</heroId>
+		<name>medusa_stone_gaze</name>
+		<localizedName>Stone Gaze</localizedName>
+	</ability>
+	<ability>
+		<id>5508</id>
+		<heroId>95</heroId>
+		<name>troll_warlord_berserkers_rage</name>
+		<localizedName>Berserker's Rage</localizedName>
+	</ability>
+	<ability>
+		<id>5509</id>
+		<heroId>95</heroId>
+		<name>troll_warlord_whirling_axes_ranged</name>
+		<localizedName>Whirling Axes (Ranged)</localizedName>
+	</ability>
+	<ability>
+		<id>5510</id>
+		<heroId>95</heroId>
+		<name>troll_warlord_whirling_axes_melee</name>
+		<localizedName>Whirling Axes (Melee)</localizedName>
+	</ability>
+	<ability>
+		<id>5511</id>
+		<heroId>95</heroId>
+		<name>troll_warlord_fervor</name>
+		<localizedName>Fervor</localizedName>
+	</ability>
+	<ability>
+		<id>5512</id>
+		<heroId>95</heroId>
+		<name>troll_warlord_battle_trance</name>
+		<localizedName>Battle Trance</localizedName>
+	</ability>
+	<ability>
+		<id>5514</id>
+		<heroId>96</heroId>
+		<name>centaur_hoof_stomp</name>
+		<localizedName>Hoof Stomp</localizedName>
+	</ability>
+	<ability>
+		<id>5515</id>
+		<heroId>96</heroId>
+		<name>centaur_double_edge</name>
+		<localizedName>Double Edge</localizedName>
+	</ability>
+	<ability>
+		<id>5516</id>
+		<heroId>96</heroId>
+		<name>centaur_return</name>
+		<localizedName>Return</localizedName>
+	</ability>
+	<ability>
+		<id>5517</id>
+		<heroId>96</heroId>
+		<name>centaur_stampede</name>
+		<localizedName>Stampede</localizedName>
+	</ability>
+	<ability>
+		<id>5518</id>
+		<heroId>97</heroId>
+		<name>magnataur_shockwave</name>
+		<localizedName>Shockwave</localizedName>
+	</ability>
+	<ability>
+		<id>5519</id>
+		<heroId>97</heroId>
+		<name>magnataur_empower</name>
+		<localizedName>Empower</localizedName>
+	</ability>
+	<ability>
+		<id>5520</id>
+		<heroId>97</heroId>
+		<name>magnataur_skewer</name>
+		<localizedName>Skewer</localizedName>
+	</ability>
+	<ability>
+		<id>5521</id>
+		<heroId>97</heroId>
+		<name>magnataur_reverse_polarity</name>
+		<localizedName>Reverse Polarity</localizedName>
+	</ability>
+	<ability>
+		<id>5524</id>
+		<heroId>98</heroId>
+		<name>shredder_whirling_death</name>
+		<localizedName>Whirling Death</localizedName>
+	</ability>
+	<ability>
+		<id>5525</id>
+		<heroId>98</heroId>
+		<name>shredder_timber_chain</name>
+		<localizedName>Timber Chain</localizedName>
+	</ability>
+	<ability>
+		<id>5526</id>
+		<heroId>98</heroId>
+		<name>shredder_reactive_armor</name>
+		<localizedName>Reactive Armor</localizedName>
+	</ability>
+	<ability>
+		<id>5527</id>
+		<heroId>98</heroId>
+		<name>shredder_chakram</name>
+		<localizedName>Chakram</localizedName>
+	</ability>
+	<ability>
+		<id>5528</id>
+		<heroId>98</heroId>
+		<name>shredder_return_chakram</name>
+		<localizedName>Return Chakram</localizedName>
+	</ability>
+	<ability>
+		<id>5548</id>
+		<heroId>99</heroId>
+		<name>bristleback_viscous_nasal_goo</name>
+		<localizedName>Viscous Nasal Goo</localizedName>
+	</ability>
+	<ability>
+		<id>5549</id>
+		<heroId>99</heroId>
+		<name>bristleback_quill_spray</name>
+		<localizedName>Quill Spray</localizedName>
+	</ability>
+	<ability>
+		<id>5550</id>
+		<heroId>99</heroId>
+		<name>bristleback_bristleback</name>
+		<localizedName>Bristleback</localizedName>
+	</ability>
+	<ability>
+		<id>5551</id>
+		<heroId>99</heroId>
+		<name>bristleback_warpath</name>
+		<localizedName>Warpath</localizedName>
+	</ability>
+	<ability>
+		<id>5565</id>
+		<heroId>100</heroId>
+		<name>tusk_ice_shards</name>
+		<localizedName>Ice Shards</localizedName>
+	</ability>
+	<ability>
+		<id>5566</id>
+		<heroId>100</heroId>
+		<name>tusk_snowball</name>
+		<localizedName>Snowball</localizedName>
+	</ability>
+	<ability>
+		<id>5567</id>
+		<heroId>100</heroId>
+		<name>tusk_frozen_sigil</name>
+		<localizedName>Frozen Sigil</localizedName>
+	</ability>
+	<ability>
+		<id>5568</id>
+		<heroId>100</heroId>
+		<name>tusk_walrus_punch</name>
+		<localizedName>Walrus PUNCH!</localizedName>
+	</ability>
+	<ability>
+		<id>5581</id>
+		<heroId>101</heroId>
+		<name>skywrath_mage_arcane_bolt</name>
+		<localizedName>Arcane Bolt</localizedName>
+	</ability>
+	<ability>
+		<id>5582</id>
+		<heroId>101</heroId>
+		<name>skywrath_mage_concussive_shot</name>
+		<localizedName>Concussive Shot</localizedName>
+	</ability>
+	<ability>
+		<id>5583</id>
+		<heroId>101</heroId>
+		<name>skywrath_mage_ancient_seal</name>
+		<localizedName>Ancient Seal</localizedName>
+	</ability>
+	<ability>
+		<id>5584</id>
+		<heroId>101</heroId>
+		<name>skywrath_mage_mystic_flare</name>
+		<localizedName>Mystic Flare</localizedName>
+	</ability>
+	<ability>
+		<id>5585</id>
+		<heroId>102</heroId>
+		<name>abaddon_death_coil</name>
+		<localizedName>Mist Coil</localizedName>
+	</ability>
+	<ability>
+		<id>5586</id>
+		<heroId>102</heroId>
+		<name>abaddon_aphotic_shield</name>
+		<localizedName>Aphotic Shield</localizedName>
+	</ability>
+	<ability>
+		<id>5587</id>
+		<heroId>102</heroId>
+		<name>abaddon_frostmourne</name>
+		<localizedName>Curse of Avernus</localizedName>
+	</ability>
+	<ability>
+		<id>5588</id>
+		<heroId>102</heroId>
+		<name>abaddon_borrowed_time</name>
+		<localizedName>Borrowed Time</localizedName>
+	</ability>
+	<ability>
+		<id>5589</id>
+		<heroId>103</heroId>
+		<name>elder_titan_echo_stomp</name>
+		<localizedName>Echo Stomp</localizedName>
+	</ability>
+	<ability>
+		<id>5591</id>
+		<heroId>103</heroId>
+		<name>elder_titan_ancestral_spirit</name>
+		<localizedName>Astral Spirit</localizedName>
+	</ability>
+	<ability>
+		<id>5592</id>
+		<heroId>103</heroId>
+		<name>elder_titan_return_spirit</name>
+		<localizedName>Return Astral Spirit</localizedName>
+	</ability>
+	<ability>
+		<id>5593</id>
+		<heroId>103</heroId>
+		<name>elder_titan_natural_order</name>
+		<localizedName>Natural Order</localizedName>
+	</ability>
+	<ability>
+		<id>5594</id>
+		<heroId>103</heroId>
+		<name>elder_titan_earth_splitter</name>
+		<localizedName>Earth Splitter</localizedName>
+	</ability>
+	<ability>
+		<id>5595</id>
+		<heroId>104</heroId>
+		<name>legion_commander_overwhelming_odds</name>
+		<localizedName>Overwhelming Odds</localizedName>
+	</ability>
+	<ability>
+		<id>5596</id>
+		<heroId>104</heroId>
+		<name>legion_commander_press_the_attack</name>
+		<localizedName>Press The Attack</localizedName>
+	</ability>
+	<ability>
+		<id>5597</id>
+		<heroId>104</heroId>
+		<name>legion_commander_moment_of_courage</name>
+		<localizedName>Moment of Courage</localizedName>
+	</ability>
+	<ability>
+		<id>5598</id>
+		<heroId>104</heroId>
+		<name>legion_commander_duel</name>
+		<localizedName>Duel</localizedName>
+	</ability>
+	<ability>
+		<id>5603</id>
+		<heroId>106</heroId>
+		<name>ember_spirit_searing_chains</name>
+		<localizedName>Searing Chains</localizedName>
+	</ability>
+	<ability>
+		<id>5604</id>
+		<heroId>106</heroId>
+		<name>ember_spirit_sleight_of_fist</name>
+		<localizedName>Sleight of Fist</localizedName>
+	</ability>
+	<ability>
+		<id>5605</id>
+		<heroId>106</heroId>
+		<name>ember_spirit_flame_guard</name>
+		<localizedName>Flame Guard</localizedName>
+	</ability>
+	<ability>
+		<id>5606</id>
+		<heroId>106</heroId>
+		<name>ember_spirit_fire_remnant</name>
+		<localizedName>Fire Remnant</localizedName>
+	</ability>
+	<ability>
+		<id>5607</id>
+		<heroId>106</heroId>
+		<name>ember_spirit_activate_fire_remnant</name>
+		<localizedName>Activate Fire Remnant</localizedName>
+	</ability>
+	<ability>
+		<id>5608</id>
+		<heroId>107</heroId>
+		<name>earth_spirit_boulder_smash</name>
+		<localizedName>Boulder Smash</localizedName>
+	</ability>
+	<ability>
+		<id>5609</id>
+		<heroId>107</heroId>
+		<name>earth_spirit_rolling_boulder</name>
+		<localizedName>Rolling Boulder</localizedName>
+	</ability>
+	<ability>
+		<id>5610</id>
+		<heroId>107</heroId>
+		<name>earth_spirit_geomagnetic_grip</name>
+		<localizedName>Geomagnetic Grip</localizedName>
+	</ability>
+	<ability>
+		<id>5611</id>
+		<heroId>107</heroId>
+		<name>earth_spirit_stone_caller</name>
+		<localizedName>Stone Remnant</localizedName>
+	</ability>
+	<ability>
+		<id>5612</id>
+		<heroId>107</heroId>
+		<name>earth_spirit_magnetize</name>
+		<localizedName>Magnetize</localizedName>
+	</ability>
+	<ability>
+		<id>5619</id>
+		<heroId>109</heroId>
+		<name>terrorblade_reflection</name>
+		<localizedName>Reflection</localizedName>
+	</ability>
+	<ability>
+		<id>5620</id>
+		<heroId>109</heroId>
+		<name>terrorblade_conjure_image</name>
+		<localizedName>Conjure Image</localizedName>
+	</ability>
+	<ability>
+		<id>5621</id>
+		<heroId>109</heroId>
+		<name>terrorblade_metamorphosis</name>
+		<localizedName>Metamorphosis</localizedName>
+	</ability>
+	<ability>
+		<id>5622</id>
+		<heroId>109</heroId>
+		<name>terrorblade_sunder</name>
+		<localizedName>Sunder</localizedName>
+	</ability>
+	<ability>
+		<id>5623</id>
+		<heroId>110</heroId>
+		<name>phoenix_icarus_dive</name>
+		<localizedName>Icarus Dive</localizedName>
+	</ability>
+	<ability>
+		<id>5624</id>
+		<heroId>110</heroId>
+		<name>phoenix_icarus_dive_stop</name>
+		<localizedName>Stop Icarus Dive</localizedName>
+	</ability>
+	<ability>
+		<id>5625</id>
+		<heroId>110</heroId>
+		<name>phoenix_fire_spirits</name>
+		<localizedName>Fire Spirits</localizedName>
+	</ability>
+	<ability>
+		<id>5626</id>
+		<heroId>110</heroId>
+		<name>phoenix_sun_ray</name>
+		<localizedName>Sun Ray</localizedName>
+	</ability>
+	<ability>
+		<id>5627</id>
+		<heroId>110</heroId>
+		<name>phoenix_sun_ray_stop</name>
+		<localizedName>Stop Sun Ray</localizedName>
+	</ability>
+	<ability>
+		<id>5628</id>
+		<heroId>110</heroId>
+		<name>phoenix_sun_ray_toggle_move</name>
+		<localizedName>Toggle Movement</localizedName>
+	</ability>
+	<ability>
+		<id>5629</id>
+		<heroId>110</heroId>
+		<name>phoenix_sun_ray_toggle_move_empty</name>
+		<localizedName></localizedName>
+	</ability>
+	<ability>
+		<id>5630</id>
+		<heroId>110</heroId>
+		<name>phoenix_supernova</name>
+		<localizedName>Supernova</localizedName>
+	</ability>
+	<ability>
+		<id>5631</id>
+		<heroId>110</heroId>
+		<name>phoenix_launch_fire_spirit</name>
+		<localizedName>Launch Fire Spirit</localizedName>
+	</ability>
+	<ability>
+		<id>5632</id>
+		<heroId>111</heroId>
+		<name>winter_wyvern_arctic_burn</name>
+		<localizedName>Arctic Burn</localizedName>
+	</ability>
+	<ability>
+		<id>5633</id>
+		<heroId>111</heroId>
+		<name>winter_wyvern_splinter_blast</name>
+		<localizedName>Splinter Blast</localizedName>
+	</ability>
+	<ability>
+		<id>5634</id>
+		<heroId>111</heroId>
+		<name>winter_wyvern_cold_embrace</name>
+		<localizedName>Cold Embrace</localizedName>
+	</ability>
+	<ability>
+		<id>5635</id>
+		<heroId>111</heroId>
+		<name>winter_wyvern_winters_curse</name>
+		<localizedName>Winter's Curse</localizedName>
+	</ability>
+</abilities>
+</result>	
