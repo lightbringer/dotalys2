@@ -4,7 +4,7 @@
 	<packaging>jar</packaging>
 	<name>clarity</name>
 	<description>Clarity is a fast, almost complete replay parser for Dota 2.</description>
-	<url>https://github.com/skadistats/clarity</url>
+	<url>https://github.com/lightbringer/dotalys2</url>
 	<repositories>
 		<repository>
 			<id>sonatype.oss.snapshots</id>
