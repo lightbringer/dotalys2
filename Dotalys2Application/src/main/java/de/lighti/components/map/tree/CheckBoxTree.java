@@ -8,6 +8,7 @@ import javax.swing.JTree;
 import javax.swing.event.TreeModelEvent;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
+import javax.swing.tree.TreeNode;
 import javax.swing.tree.TreeSelectionModel;
 
 import de.lighti.components.map.FullMapComponent;
@@ -48,10 +49,10 @@ public class CheckBoxTree extends JTree {
                     if (userData.isSelected()) {
                         //Check if we should set the mark on the parent node
                         while (parent != model.getRoot()) {
-                            final Enumeration<DefaultMutableTreeNode> children = parent.children();
+                            final Enumeration<TreeNode> children = parent.children();
                             boolean allTrue = true;
                             while (children.hasMoreElements()) {
-                                final DefaultMutableTreeNode c = children.nextElement();
+                                final DefaultMutableTreeNode c = (DefaultMutableTreeNode) children.nextElement();
                                 final CheckBoxNode n = (CheckBoxNode) c.getUserObject();
                                 if (!n.isSelected()) {
                                     allTrue = false;
